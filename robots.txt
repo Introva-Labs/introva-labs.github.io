@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://introvalabs.com
+Sitemap: https://introvalabs.com/sitemap.xml
